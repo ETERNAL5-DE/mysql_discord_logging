@@ -1,0 +1,8 @@
+{
+    "host": "<hostname / ip>",
+    "user": "<username>",
+    "password": "<password>",
+    "database_ban": "<tablename - Ban>",
+    "database_kick": "<Tablename - Kick",
+    "database_message": "<Tablename - message>"
+}
